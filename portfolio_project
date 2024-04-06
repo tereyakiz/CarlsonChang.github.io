@@ -1,0 +1,9 @@
+portfolio_project/
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+│
+└── app.py

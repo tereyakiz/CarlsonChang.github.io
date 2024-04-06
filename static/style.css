@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background */
+    color: #fff; /* White text */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #292929; /* Dark gray header */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em; /* Increase font size for emphasis */
+    color: #fff; /* White text */
+}
+
+header p {
+    margin-top: 5px;
+    font-size: 1.1em; /* Adjust font size */
+    color: #ccc; /* Light gray text */
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #9966ff; /* Purple heading */
+    border-bottom: 2px solid #9966ff; /* Purple underline */
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #99ccff; /* Light blue sub-heading */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #292929; /* Dark gray footer */
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.8em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; /* Center align the links */
+}
+
+nav ul li {
+    display: inline; /* Display the list items inline */
+    margin: 0 10px; /* Add some margin between the links */
+}
+
+nav ul li a {
+    color: #fff; /* White text */
+    text-decoration: none; /* Remove underline from the links */
+    font-size: 1.2em; /* Adjust font size */
+}
